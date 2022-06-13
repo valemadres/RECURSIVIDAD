@@ -4,8 +4,9 @@ public class ejercicios{
         if (n ==1 ){
             factorial=n;
         }else{
-            factorial = n *factorial (n:n -1);
-            
+            factorial = n *factorial (n-1);
+        }  
         return factorial;
     }
+    
 }
