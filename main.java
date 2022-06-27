@@ -6,5 +6,6 @@ public class main{
         
         int vector[]={2,3,9,7,4,1};
         System.out.println(Ejercicio_3.sumaVector(vector,5));
+        System.out.println(ejercicio4.invertirCadena("Recursividad"));
     }
 }
